@@ -1,7 +1,46 @@
-img{position: absolute;
-width: 1529px;
-height: 1144px;
-left: 0px;
-top: -520px;
+body{
+  background-color: black
+}
+header{
+  background-color: Grey
+}
 
-background: url(Portfolio.png);}
+nav li{
+  display: inline-block;
+  margin: 0 0 0 200px;
+  text-transform: uppercase;
+}
+
+nav a:hover{
+color: white;
+text-decoration: underline;
+}
+
+.titulo{font-size: 100px; color: #C7C7C7; text-align: center;margin-top: -7%}
+
+h1{
+  font-family: inherit; text-align: center; color:white; border: 10px solid Blue;
+}
+
+p{
+  font-family: monospace; font-size: 30px; color: white; text-align: center; border: 10px solid Blue;
+}
+
+ul {
+  top: 200px;
+font-size: 30px;
+}
+
+.logo{
+width: 15%;
+margin-left: 0%;
+}
+
+.contato{font-family: cursive; background-color: Blue; color: #FFFFFF ; font-size: 30px; text-align: center;}
+
+.fotos{font-family: cursive; background-color: Blue; color: #FFFFFF ; font-size: 30px; text-align: center;}
+
+img{
+  width: 100%;
+  margin-left: 0%;
+}
