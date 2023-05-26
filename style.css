@@ -1,0 +1,9 @@
+.imagem{
+    width: 300px;
+    height: 300px;
+}
+
+div-todas-imagens {
+ display: grid;
+}
+    
